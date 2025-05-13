@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/total-characters-in-string-after-transformations-i">Total Characters in String After Transformations I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code> and an integer <code>t</code>, representing the number of <strong>transformations</strong> to perform. In one <strong>transformation</strong>, every character in <code>s</code> is replaced according to the following rules:</p>
+<h2><a href="https://leetcode.com/problems/total-characters-in-string-after-transformations-i">3629. Total Characters in String After Transformations I</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> and an integer <code>t</code>, representing the number of <strong>transformations</strong> to perform. In one <strong>transformation</strong>, every character in <code>s</code> is replaced according to the following rules:</p>
 
 <ul>
 	<li>If the character is <code>&#39;z&#39;</code>, replace it with the string <code>&quot;ab&quot;</code>.</li>
