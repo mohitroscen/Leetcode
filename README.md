@@ -6,6 +6,7 @@ leet code task
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/mohitroscen/Leetcode/tree/master/0135-candy) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohitroscen/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohitroscen/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mohitroscen/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -64,6 +65,7 @@ leet code task
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/mohitroscen/Leetcode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohitroscen/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mohitroscen/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mohitroscen/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
