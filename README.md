@@ -19,6 +19,7 @@ leet code task
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohitroscen/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohitroscen/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohitroscen/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitroscen/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mohitroscen/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mohitroscen/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sorting
@@ -44,6 +45,7 @@ leet code task
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohitroscen/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mohitroscen/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/mohitroscen/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitroscen/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mohitroscen/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mohitroscen/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
@@ -69,6 +71,7 @@ leet code task
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohitroscen/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mohitroscen/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mohitroscen/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitroscen/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -94,4 +97,12 @@ leet code task
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/mohitroscen/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Stack
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitroscen/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitroscen/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 <!---LeetCode Topics End-->
