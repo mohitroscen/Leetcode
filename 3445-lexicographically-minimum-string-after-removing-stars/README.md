@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars">3445. Lexicographically Minimum String After Removing Stars</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code>. It may contain any number of <code>&#39;*&#39;</code> characters. Your task is to remove all <code>&#39;*&#39;</code> characters.</p>
+<h2><a href="https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars">Lexicographically Minimum String After Removing Stars</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a string <code>s</code>. It may contain any number of <code>&#39;*&#39;</code> characters. Your task is to remove all <code>&#39;*&#39;</code> characters.</p>
 
 <p>While there is a <code>&#39;*&#39;</code>, do the following operation:</p>
 
