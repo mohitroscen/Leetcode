@@ -96,6 +96,7 @@ leet code task
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/mohitroscen/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/mohitroscen/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Stack
 |  |
@@ -105,4 +106,8 @@ leet code task
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitroscen/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/mohitroscen/Leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
