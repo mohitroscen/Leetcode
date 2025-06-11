@@ -32,6 +32,7 @@ leet code task
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohitroscen/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/mohitroscen/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Math
 |  |
 | ------- |
@@ -48,6 +49,7 @@ leet code task
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/mohitroscen/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mohitroscen/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/mohitroscen/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/mohitroscen/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,4 +113,12 @@ leet code task
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/mohitroscen/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/mohitroscen/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/mohitroscen/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/mohitroscen/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
