@@ -36,6 +36,7 @@ leet code task
 ## Math
 |  |
 | ------- |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mohitroscen/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mohitroscen/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/mohitroscen/Leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/mohitroscen/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -70,6 +71,7 @@ leet code task
 |  |
 | ------- |
 | [0135-candy](https://github.com/mohitroscen/Leetcode/tree/master/0135-candy) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mohitroscen/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohitroscen/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mohitroscen/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/mohitroscen/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
