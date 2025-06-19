@@ -6,6 +6,7 @@ leet code task
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohitroscen/Leetcode/tree/master/0001-two-sum) |
 | [0135-candy](https://github.com/mohitroscen/Leetcode/tree/master/0135-candy) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/mohitroscen/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohitroscen/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -17,6 +18,7 @@ leet code task
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mohitroscen/Leetcode/tree/master/0001-two-sum) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/mohitroscen/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/mohitroscen/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/mohitroscen/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
