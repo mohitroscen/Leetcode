@@ -39,6 +39,7 @@ leet code task
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/mohitroscen/Leetcode/tree/master/0002-add-two-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/mohitroscen/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/mohitroscen/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/mohitroscen/Leetcode/tree/master/3321-type-of-triangle) |
@@ -131,4 +132,12 @@ leet code task
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/mohitroscen/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mohitroscen/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/mohitroscen/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
